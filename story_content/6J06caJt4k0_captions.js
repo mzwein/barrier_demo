@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.95.33670.0%0D%0A%0D%0A00:00:00.384%20--%3E%2000:00:06.256%0D%0AGood%20work!%20Now%20that%20you%E2%80%99ve%20identified%20your%20barrier%20point,%20plan%20for%20how%20you%20are%20going%20to%20overcome%20it.%0D%0A%0D%0A"}')
